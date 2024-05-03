@@ -1,2 +1,3 @@
-# Mercy
-my first day as intern and i created porfolio of mine using react js 
+# Mercy Technology
+
+I created my profolio in react while doing my intern in mercy technology
