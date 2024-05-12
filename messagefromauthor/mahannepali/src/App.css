@@ -1,0 +1,49 @@
+
+
+.right-container {
+  width: calc(777px - 306px); 
+  height: 352px; 
+  background-color: #ebf2ee; 
+  padding: 20px;
+  border-radius: 0 5px 5px 0; 
+  box-shadow: 0px 4px 20px 6px rgba(0, 0, 0, 0.4); 
+}
+
+.right-container h2 {
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 54px;
+  text-align: left;
+  color: #fff;
+}
+
+.right-container p {
+  font-family: Poppins;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.see-more-button {
+  padding: 10px 20px;
+  background-color: #fff;
+  color: #005429;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.see-more-button:hover {
+  background-color: #ddd;
+}
+
+.main-container{
+  display:flex;
+
+}
+
+
+
